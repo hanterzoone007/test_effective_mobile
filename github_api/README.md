@@ -9,7 +9,7 @@
    ```text
    GITHUB_USERNAME=your_github_username
    GITHUB_TOKEN=your_github_token
-   REPO_NAME='test-repo-123456'
+   NAME_REPO='test-repo-123456'
    ```
 3. Запуск скрипрта:
    ```bash
